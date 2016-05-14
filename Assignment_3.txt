@@ -1,0 +1,3 @@
+The 2 examples of data that cannot be stored in variable of type int are :
+1) Name of an emplyee
+2) Salary of an emplyee
